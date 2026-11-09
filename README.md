@@ -144,3 +144,8 @@ streamlit run app.py
 ## GitHub Repository
 
 [Dry Bean Classificastion Using Machine Learning](https://github.com/Dhanushiyasm11/ML_Assignment2)
+## Live Demo
+
+The application is deployed using Streamlit Community Cloud.
+
+**Live App:** https://mlassignment2-fcy3ko9ftexqqkfjg3zay.streamlit.app/
