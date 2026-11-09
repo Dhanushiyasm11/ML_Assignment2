@@ -148,4 +148,4 @@ streamlit run app.py
 
 The application is deployed using Streamlit Community Cloud.
 
-**Live App:** https://mlassignment2-fcy3ko9ftexqqkfjg3zay.streamlit.app/
+**Live App:** https://mlassignment2-fcy3ko97texqqkfkjg3zay.streamlit.app/
